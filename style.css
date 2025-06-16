@@ -11,7 +11,6 @@
 *{
     font-weight:400
 }
-
 body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
@@ -29,4 +28,7 @@ body{
 .conteudo_titulo{
     text-align:center;
     margin-top: 80px;
+}
+.cadeado_conteudo{
+    width: 200px;
 }
