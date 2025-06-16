@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+    --branco:white;
+    --cor-de-fundo: purple;
+    --fundo-senha: black;
+    --fundo-texto: rgb(243, 234, 234);
+    --borda:rgb(232, 234, 235);
+    --fonte: 'Montserrat';
+}
+*{
+    font-weight:400
+}
+
+body{
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte);
+}
+.titulo_principaj{
+    font-family: var(--fonte);
+    font-size: 32px;
+}
+.titulo_secundario{
+    text-align: center;
+    margin: 80px;
+
+}
