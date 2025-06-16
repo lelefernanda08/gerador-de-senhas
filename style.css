@@ -4,7 +4,7 @@
     --branco:white;
     --cor-de-fundo: rgb(51, 146, 158);
     --fundo-senha: black;
-    --fundo-texto: rgb(243, 234, 234);
+    --fundo-texto: rgb(255, 255, 255);
     --borda:rgb(232, 234, 235);
     --fonte: 'Montserrat';
 }
@@ -22,7 +22,11 @@ body{
     font-size: 32px;
 }
 .titulo_secundario{
+    font-size: 4px;
     text-align: center;
     margin: 80px;
-
+}
+.conteudo_titulo{
+    text-align:center;
+    margin-top: 80px;
 }
